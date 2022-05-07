@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE new-message [
+	<!ELEMENT new-message (receiver)>
+	<!ELEMENT reciever (MUT_ID, hg18_Chr17_coordinates, hg19_Chr17_coordinates, hg38_Chr17_coordinates, Exonlntron, Codon_number, Description, c-description, g-description, g-description_GRCh38)>
+
+	<!ELEMENT receiver (#PCDATA)>
+	<!ELEMENT MUT_ID (#PCDATA)>
+	<!ELEMENT hg18_Chr17_coordinates (#PCDATA)>
+	<!ELEMENT hg19_Chr17_coordinates (#PCDATA)>
+	<!ELEMENT hg38_Chr17_coordinates (#PCDATA)>
+	<!ELEMENT Exonlntron (#PCDATA)>
+	<!ELEMENT Codon_number (#PCDATA)>
+	<!ELEMENT Description (#PCDATA)>
+	<!ELEMENT c-description (#PCDATA)>
+	<!ELEMENT g-description (#PCDATA)>
+	<!ELEMENT g-description_GRCh38 (#PCDATA)>
+
+]>
+
+<new-message>
+	<receiver>
+		<MUT_ID> 1590 </MUT_ID>
+		<hg18_Chr17_coordinates> 7519227 </hg18_Chr17_coordinates>
+		<hg19_Chr17_coordinates> 7578502 </hg19_Chr17_coordinates>
+		<hg38_Chr17_coordinates> 7675184 </hg38_Chr17_coordinates>
+		<Exonlntron> 5-exon </Exonlntron>
+		<Codon_number> 143 </Codon_number>
+		<Description> 	T>C </Description>
+		<c-description> c.428T>C</c-description>
+		<g-description> g.7578502A>G </g-description>
+		<g-description_GRCh38> g.7675184A>G </g-description_GRCh38>
+	</receiver>
+
+	<receiver>
+		<MUT_ID> 2143 </MUT_ID>
+		<hg18_Chr17_coordinates> 7519131</hg18_Chr17_coordinates>
+		<hg19_Chr17_coordinates> 7578406 </hg19_Chr17_coordinates>
+		<hg38_Chr17_coordinates> 7675088 </hg38_Chr17_coordinates>
+		<Exonlntron> 5-exon </Exonlntron>
+		<Codon_number> 175 </Codon_number>
+		<Description> 	G>A </Description>
+		<c-description> c.524G>A </c-description>
+		<g-description> g.7578406C>T </g-description>
+		<g-description_GRCh38> g.7675088C>T </g-description_GRCh38>
+	</receiver>
+
+	<receiver>
+		<MUT_ID> 1407 </MUT_ID>
+		<hg18_Chr17_coordinates> 7519261 </hg18_Chr17_coordinates>
+		<hg19_Chr17_coordinates> 7578536 </hg19_Chr17_coordinates>
+		<hg38_Chr17_coordinates> 7675218 </hg38_Chr17_coordinates>
+		<Exonlntron> 5-exon </Exonlntron>
+		<Codon_number> 132 </Codon_number>
+		<Description> A>C </Description>
+		<c-description> c.394A>C </c-description>
+		<g-description> g.7578536T>G </g-description>
+		<g-description_GRCh38> g.7675218T>G </g-description_GRCh38>
+	</receiver>
+
+	<receiver>
+		<MUT_ID> 1130 </MUT_ID>
+		<hg18_Chr17_coordinates> 7520084 </hg18_Chr17_coordinates>
+		<hg19_Chr17_coordinates> 7579359 </hg19_Chr17_coordinates>
+		<hg38_Chr17_coordinates> 7676041 </hg38_Chr17_coordinates>
+		<Exonlntron> 4-exon </Exonlntron>
+		<Codon_number> 110 </Codon_number>
+		<Description> C>T </Description>
+		<c-description> c.328C>T </c-description>
+		<g-description> g.7579359G>A </g-description>
+		<g-description_GRCh38> g.7676041G>A </g-description_GRCh38>
+	</receiver>
+
+	<receiver>
+		<MUT_ID> 3932 </MUT_ID>
+		<hg18_Chr17_coordinates> 7517810 </hg18_Chr17_coordinates>
+		<hg19_Chr17_coordinates> 7577085 </hg19_Chr17_coordinates>
+		<hg38_Chr17_coordinates> 7673767 </hg38_Chr17_coordinates>
+		<Exonlntron> 8-exon </Exonlntron>
+		<Codon_number> 285 </Codon_number>
+		<Description> 	G>A </Description>
+		<c-description>	c.853G>A </c-description>
+		<g-description> g.7577085C>T </g-description>
+		<g-description_GRCh38> g.7673767C>T </g-description_GRCh38>
+	</receiver>
+
+	<receiver>
+		<MUT_ID> 3326 </MUT_ID>
+		<hg18_Chr17_coordinates> 7518259 </hg18_Chr17_coordinates>
+		<hg19_Chr17_coordinates> 7577534 </hg19_Chr17_coordinates>
+		<hg38_Chr17_coordinates> 7674216 </hg38_Chr17_coordinates>
+		<Exonlntron> 7-exon </Exonlntron>
+		<Codon_number> 249 </Codon_number>
+		<Description> G>C </Description>
+		<c-description> c.747G>C </c-description>
+		<g-description> g.7577534C>G </g-description>
+		<g-description_GRCh38> g.7674216C>G </g-description_GRCh38>
+	</receiver>
+
+	<receiver>
+		<MUT_ID> 3849 </MUT_ID>
+		<hg18_Chr17_coordinates> 7517824 </hg18_Chr17_coordinates>
+		<hg19_Chr17_coordinates> 7577099 </hg19_Chr17_coordinates>
+		<hg38_Chr17_coordinates> 7673781 </hg38_Chr17_coordinates>
+		<Exonlntron> 8-exon </Exonlntron>
+		<Codon_number> 280 </Codon_number>
+		<Description> G>A </Description>
+		<c-description> c.839G>A </c-description>
+		<g-description> g.7577099C>T </g-description>
+		<g-description_GRCh38> g.7673781C>T </g-description_GRCh38>
+	</receiver>
+
+	<receiver>
+		<MUT_ID> 2754 </MUT_ID>
+		<hg18_Chr17_coordinates> 7518928 </hg18_Chr17_coordinates>
+		<hg19_Chr17_coordinates> 7578203 </hg19_Chr17_coordinates>
+		<hg38_Chr17_coordinates> 7674885 </hg38_Chr17_coordinates>
+		<Exonlntron> 	6-exon </Exonlntron>
+		<Codon_number> 216 </Codon_number>
+		<Description> G>A </Description>
+		<c-description> c.646G>A </c-description>
+		<g-description> g.7578203C>T </g-description>
+		<g-description_GRCh38> 	g.7674885C>T </g-description_GRCh38>
+	</receiver>
+
+	<receiver>
+		<MUT_ID> 3947 </MUT_ID>
+		<hg18_Chr17_coordinates> 7517807 </hg18_Chr17_coordinates>
+		<hg19_Chr17_coordinates> 7577082 </hg19_Chr17_coordinates>
+		<hg38_Chr17_coordinates> 7673764 </hg38_Chr17_coordinates>
+		<Exonlntron> 8-exon </Exonlntron>
+		<Codon_number> 286 </Codon_number>
+		<Description> 	del8 </Description>
+		<c-description> c.856_863del </c-description>
+		<g-description> g.7577075_7577082del </g-description>
+		<g-description_GRCh38> g.7673757_7673764del </g-description_GRCh38>
+	</receiver>
+
+	<receiver>
+		<MUT_ID> 2425 </MUT_ID>
+		<hg18_Chr17_coordinates> 7518994 </hg18_Chr17_coordinates>
+		<hg19_Chr17_coordinates> 7578269 </hg19_Chr17_coordinates>
+		<hg38_Chr17_coordinates> 7674951 </hg38_Chr17_coordinates>
+		<Exonlntron> 6-exon </Exonlntron>
+		<Codon_number> 194 </Codon_number>
+		<Description> C>T </Description>
+		<c-description> c.580C>T </c-description>
+		<g-description> g.7578269G>A </g-description>
+		<g-description_GRCh38> 	g.7674951G>A </g-description_GRCh38>
+	</receiver>
+
+	<receiver>
+		<MUT_ID> 5502 </MUT_ID>
+		<hg18_Chr17_coordinates> 15 </hg18_Chr17_coordinates>
+		<hg19_Chr17_coordinates> 15 </hg19_Chr17_coordinates>
+		<hg38_Chr17_coordinates> 15 </hg38_Chr17_coordinates>
+		<Exonlntron> e5-exon </Exonlntron>
+		<Codon_number> 0 </Codon_number>
+		<Description> 	del15 </Description>
+		<c-description> c.?(e5-exon_del15) </c-description>
+		<g-description> g.?</g-description>
+		<g-description_GRCh38> 	g.? </g-description_GRCh38>
+	</receiver>
+
+
+</new-message>
